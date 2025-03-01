@@ -2,7 +2,7 @@
 @custom-variant dark (&:where(.dark, .dark *));
 @layer base {
   body {
-    @apply bg-pink-200 text-gray-800;
+    @apply bg-white text-gray-800;
   }
 
 
